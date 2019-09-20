@@ -1,0 +1,7 @@
+399 12G   i3   dell   2018
+7 256M   i7   7   2018
+1 4G   i5   HP   2011
+2 12G   core-Two-due   2   2018
+4 12G   core-Two-due   asus   2018
+66 12G   core-Two-due   66   2002
+888 256M   i7   8888   2000
